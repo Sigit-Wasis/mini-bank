@@ -6,7 +6,7 @@ Aplikasi ini dirancang dengan pendekatan **modular architecture** dan terintegra
 
 ---
 
-## ✨ Fitur Utamai
+## ✨ Fitur Utama
 
 ### 🔐 1. Authentication Module (Gerbang Masuk)
 
