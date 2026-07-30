@@ -4,6 +4,7 @@ Selamat datang di dokumentasi proyek **Mini Bank**. Dokumentasi teknis proyek in
 
 ## Daftar Isi Dokumentasi
 
+- **[IMPLEMENTATION GUIDE](./IMPLEMENTATION_GUIDE.md)** - Panduan dan urutan pengerjaan fitur dari fondasi hingga selesai beserta standar dokumentasi per fase.
 - **[PRD (Product Requirement Document)](./PRD.md)** - Penjelasan fungsionalitas produk, target pengguna, dan spesifikasi fitur.
 - **[DESIGN](./DESIGN.md)** - Panduan rancang bangun antarmuka atau alur interaksi pengguna (UX) & sistem (System Flows).
 - **[ARCHITECTURE](./ARCHITECTURE.md)** - Arsitektur sistem (Domain Driven / Clean Architecture) dan pembagian layer (`cmd`, `internal`, `pkg`, dll).
